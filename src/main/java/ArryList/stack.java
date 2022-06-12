@@ -1,3 +1,5 @@
+package ArryList;
+
 import lombok.Data;
 
 import java.util.ArrayList;
